@@ -1,0 +1,42 @@
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+/* 引用 font awesome 中的图标*/
+
+/*
+
+
+.icon-user::before {
+  content: "\f007";
+}
+.icon-pass::before {
+  content: "\f023";
+}
+
+.icon-email::before {
+  content: "\f003";
+}
+
+.icon-tel::before {
+  content: "\f10b";
+}
+*/
+
+.icon-qq::before {
+  content: "\f1d6";
+  color: #009cda;
+}
+.icon-blog::before {
+  content: "\f1d5";
+  color: #ea1328;
+}
+
+.icon-wechat::before,
+.icon-weixin::before {
+  content: "\f1d7";
+  color: #44b549;
+}
