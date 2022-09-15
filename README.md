@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-# vuenote
-=======
+
 # mytool
 
 ## Project setup
