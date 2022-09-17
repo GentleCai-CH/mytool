@@ -4,16 +4,15 @@
 
 
 ## ✨ 技术栈
-编程语言：JavaScript 
-构建工具：vue cli 2.x
-前端框架：Vue 3.x
-路由工具：Vue Router 4.x
-状态管理：Vuex 4.x
-PC 端 UI 框架：Element UI
-HTTP 工具：Axios
-Git Hook 工具：husky + lint-staged
-代码规范：EditorConfig + Prettier + ESLint
-部署：shell + BT面板
+- 编程语言：JavaScript 
+- 构建工具：vue cli 2.x
+- 前端框架：Vue 3.x
+- 路由工具：Vue Router 4.x
+- 状态管理：Vuex 4.x
+- PC 端 UI 框架：Element UI
+- HTTP 工具：Axios
+- 代码规范：EditorConfig + Prettier + ESLint
+- 部署：shell + BT面板
 
 ## ✨ 功能清单
  
