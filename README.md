@@ -2,8 +2,21 @@
 # mytool
 
 
-## ✨ 特性
 
+## ✨ 技术栈
+编程语言：JavaScript 
+构建工具：vue cli 2.x
+前端框架：Vue 3.x
+路由工具：Vue Router 4.x
+状态管理：Vuex 4.x
+PC 端 UI 框架：Element UI
+HTTP 工具：Axios
+Git Hook 工具：husky + lint-staged
+代码规范：EditorConfig + Prettier + ESLint
+部署：shell + BT面板
+
+## ✨ 功能清单
+ 
 - 内容编辑器
   - vue-quill-editor
   - emoji
@@ -38,6 +51,13 @@
     - 邮箱
     - 邮箱验证
   - 其他方式登录
+  
+ - 文件
+  - 文件添加
+  - 文件删除
+  - 文件存储
+  
+  
   
   
 ## 持续更新
